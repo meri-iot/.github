@@ -1,0 +1,49 @@
+# 福岡県工業技術センター (FITC)
+
+> “創るを共に。福岡の未来をひらく技術拠点”  
+> — 福岡県工業技術センター スローガン :contentReference[oaicite:0]{index=0}  
+
+---
+
+## 概要
+
+福岡県工業技術センター（Fukuoka Industrial Technology Center, FITC）は、福岡県内の中小企業やものづくり事業者に対して、技術支援・研究開発支援・試験分析・人材育成などを行う公的技術機関です。 :contentReference[oaicite:1]{index=1}  
+
+FITC は、以下のような役割とミッションを担っています：
+
+- 技術相談・支援：企業の現場技術的な課題に対するアドバイス・解決支援 :contentReference[oaicite:2]{index=2}  
+- 受託・共同研究：産官学連携や受託研究による技術開発支援 :contentReference[oaicite:3]{index=3}  
+- 試験・分析・設備利用：分析試験、測定、設備貸出などを通じたサービス提供 :contentReference[oaicite:4]{index=4}  
+- 人材育成・セミナー：技術セミナー、実習、講習会などの開催 :contentReference[oaicite:5]{index=5}  
+- 研究成果の公開：研究報告、特許・工業所有権、評価・発表などの公表 :contentReference[oaicite:6]{index=6}  
+
+また、福岡県工業技術センター は「機械電子研究所」「化学繊維研究所」「インテリア研究所」「生物食品研究所」など、専門研究所群を有し、それぞれの分野で技術支援や研究活動を行っています。 :contentReference[oaicite:7]{index=7}  
+
+---
+
+## 組織・構成
+
+福岡県工業技術センター には複数の研究所および技術部門があり、専門分野ごとに設備や技術を統括しています。 :contentReference[oaicite:8]{index=8}  
+
+（例）  
+- 機械電子研究所  
+- 化学繊維研究所  
+- インテリア研究所  
+- 生物食品研究所  
+
+各研究所では、固有の設備、試験機器、研究テーマを持ち、分野横断的な連携も行っています。 :contentReference[oaicite:9]{index=9}  
+
+また、福岡県工業技術センター は人材育成グループ・コネクトグループなど部門横断の組織を持ち、技術普及・産業振興・DX 推進などの活動を統括しています。 :contentReference[oaicite:10]{index=10}  
+
+---
+
+## プロジェクト・成果・公開データ
+
+福岡県工業技術センター は様々なプロジェクトや技術リソースを公開しています。以下は一部の例です：
+
+- **IoT導入支援キット Ver.4**：Raspberry Pi ベースおよび Windows PC 版を公開中 :contentReference[oaicite:11]{index=11}  
+- **生産進捗管理システム YokaKit**：ソースコードを公開 :contentReference[oaicite:12]{index=12}  
+- 年次研究報告書、研究成果、業務報告書、特許・工業所有権リストなど多数の文書をホームページ上で公開 :contentReference[oaicite:13]{index=13}  
+
+これらの成果はオープンデータとして活用できることを意図しており、GitHub 等での公開を通じて技術共有・産業振興を図ることが期待されます。
+
